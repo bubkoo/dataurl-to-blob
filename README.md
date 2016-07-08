@@ -1,2 +1,17 @@
 # dataurl-to-blob
-Turn a dataURL into a blob in a cross-browser way.
+
+> Convert the given dataURL to a Blob.
+
+## Install
+
+```
+$ npm install --save dataurl-to-blob
+```
+
+## Usage
+
+```js
+var dataURLtoBlob = require('dataurl-to-blob');
+
+dataURLtoBlob(dataURL);
+```

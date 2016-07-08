@@ -1,0 +1,34 @@
+{
+  "name": "dataurl-to-blob",
+  "version": "0.0.1",
+  "description": "Convert the given dataURL to a Blob.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "jshint index.js",
+    "pretest": "npm run lint",
+    "test": "echo",
+    "prepublish": "npm test"
+  },
+  "keywords": [
+    "dataURL",
+    "dataURI",
+    "blob",
+    "canvas"
+  ],
+  "author": {
+    "name": "bubkoo",
+    "email": "bubkoo.wy@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bubkoo/dataurl-to-blob.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bubkoo/dataurl-to-blob/issues"
+  },
+  "homepage": "https://github.com/bubkoo/dataurl-to-blob#readme",
+  "dependencies": {
+    "jshint": "^2.9.2"
+  }
+}
