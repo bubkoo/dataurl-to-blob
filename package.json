@@ -28,7 +28,7 @@
     "url": "https://github.com/bubkoo/dataurl-to-blob/issues"
   },
   "homepage": "https://github.com/bubkoo/dataurl-to-blob#readme",
-  "dependencies": {
+  "devDependencies": {
     "jshint": "^2.9.2"
   }
 }
